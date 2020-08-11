@@ -2,7 +2,7 @@
 
 Tekton tutorials is setup in order to be a starting block for building tekton pipelines.  There will be an array of tasks, taskruns, pipelines, and pipeline run examples for anyone to use and modify.
 
-### ***Current Compatiable Tekton Pipelines Version:*** *0.15.2*
+#### ***Current Compatiable Tekton Pipelines Version:*** *0.15.2*
 
 ## Tekton Installation 
 
@@ -20,3 +20,9 @@ Dashboard (Optional)
 ```
 kubectl apply --filename https://github.com/tektoncd/dashboard/releases/latest/download/tekton-dashboard-release.yaml
 ```
+
+## Languages Supported
+
+- NodeJS
+- Java
+- Python
