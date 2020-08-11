@@ -6,17 +6,17 @@ Tekton tutorials is setup in order to be a starting block for building tekton pi
 
 ## Tekton Installation 
 
-Kubernetes 
+**Kubernetes**
 ```
 kubectl apply --filename https://storage.googleapis.com/tekton-releases/pipeline/latest/release.yaml
 ```
 
-OpenShift
+**OpenShift**
 ```
 kubectl apply --filename https://storage.googleapis.com/tekton-releases/pipeline/latest/release.notags.yaml
 ```
 
-Dashboard (Optional)
+**Dashboard (Optional)**
 ```
 kubectl apply --filename https://github.com/tektoncd/dashboard/releases/latest/download/tekton-dashboard-release.yaml
 ```
