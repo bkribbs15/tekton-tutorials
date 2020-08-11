@@ -2,7 +2,7 @@
 
 Tekton tutorials is setup in order to be a starting block for building tekton pipelines.  There will be an array of tasks, taskruns, pipelines, and pipeline run examples for anyone to use and modify.
 
-*** Current Compatiable Tekton Version: *** 15.0
+***Current Compatiable Tekton Version:*** 15.0
 
 ## Tekton Installation 
 
